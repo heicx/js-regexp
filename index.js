@@ -1,3 +1,4 @@
+console.log("正则表达式常用事例讲解");
 //简单类型
 // return true; 匹配整字符串，辅助理解为 a === b
 console.log("NO.1", /iautos.cn/.test("iautos.cn"));
